@@ -1,0 +1,9 @@
+streamlit
+folium
+streamlit-folium
+requests
+pandas
+matplotlib
+scikit-learn
+jinja2
+branca
